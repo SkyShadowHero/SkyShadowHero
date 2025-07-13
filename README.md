@@ -8,8 +8,8 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <!-- Stats Card（亮天蓝 → 深天蓝） -->
-  <a herf="https://github.com/SkyShadowHero">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,3AA8FF,A0E7FF&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" herf="https://github.com/SkyShadowHero">
+  <a href="https://github.com/SkyShadowHero">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,3AA8FF,A0E7FF&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
   </a>
 </p>
 
