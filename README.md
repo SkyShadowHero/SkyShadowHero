@@ -9,12 +9,12 @@
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <!-- Stats Card (with fixed height) -->
   <a>
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,00f2fe,4facfe&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
   </a>
   
   <!-- Languages Card (original layout with fixed height) -->
-  <a href="https://github.com/SkyShadowHero">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShadowHero&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&custom_title=My%20Top%20Languages" alt="Top Languages">
+  <a>
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShadowHero&hide_border=true&bg_color=30,4facfe,00f2fe&title_color=fff&text_color=fff&custom_title=My%20Top%20Languages" alt="Top Languages">
   </a>
 </p>
 
