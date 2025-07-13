@@ -8,7 +8,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <!-- Stats Card (with fixed height) -->
-  <a href="https://github.com/SkyShadowHero">
+  <a>
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
   </a>
   
