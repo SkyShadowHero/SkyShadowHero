@@ -11,11 +11,6 @@
   <a>
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,3AA8FF,A0E7FF&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
   </a>
-  
-  <!-- Languages Card（深天蓝 → 亮天蓝） -->
-  <a>
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShadowHero&hide_border=true&bg_color=30,A0E7FF,3AA8FF&title_color=fff&text_color=fff&custom_title=My%20Top%20Languages" alt="Top Languages">
-  </a>
 </p>
 
 ---
