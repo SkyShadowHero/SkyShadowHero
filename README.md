@@ -1,27 +1,19 @@
-## Hi,it's SkyShadowHero 👋
+# Hi, I'm SkyShadowHero 👋
 
-### Github
-[![SkyShadowHero's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyShadowHero)](https://github.com/SkyShadowHero)  
+## 🚀 About Me
+Passionate developer leaving digital footprints across the web.
 
-### My Website
-[Leaving a digital footprint on the web](https://skyshadow.fun)  
-![Website](/img/website.png)
+## 📊 GitHub Stats
+[![SkyShadowHero's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true)](https://github.com/SkyShadowHero)
 
-### My Blog
-[天影大侠的小站](https://blog.skyshadow.fun)  
-![blog](/img/blog.png)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShadowHero)](https://github.com/SkyShadowHero)
 
-<!--
-**SkyShadowHero/SkyShadowHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 My Digital Presence
 
-Here are some ideas to get you started:
+### 🏡 Personal Website
+[![Personal Website](https://img.shields.io/badge/Website-skyshadow.fun-blue?style=for-the-badge&logo=google-chrome)](https://skyshadow.fun)  
+[![Website Preview](/img/website.png)](https://skyshadow.fun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Tech Blog
+[![Blog](https://img.shields.io/badge/Blog-天影大侠的小站-green?style=for-the-badge&logo=wordpress)](https://blog.skyshadow.fun)  
+[![Blog Preview](/img/blog.png)](https://blog.skyshadow.fun)
