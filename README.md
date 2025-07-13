@@ -7,14 +7,14 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 1rem;">
-  <!-- Stats Card (with fixed height) -->
+  <!-- Stats Card（亮天蓝 → 深天蓝） -->
   <a>
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,00f2fe,4facfe&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=SkyShadowHero&show_icons=true&count_private=true&hide_border=true&bg_color=30,3AA8FF,A0E7FF&title_color=fff&text_color=fff&custom_title=My%20GitHub%20Stats" alt="GitHub Stats">
   </a>
   
-  <!-- Languages Card (original layout with fixed height) -->
+  <!-- Languages Card（深天蓝 → 亮天蓝） -->
   <a>
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShadowHero&hide_border=true&bg_color=30,4facfe,00f2fe&title_color=fff&text_color=fff&custom_title=My%20Top%20Languages" alt="Top Languages">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyShadowHero&hide_border=true&bg_color=30,A0E7FF,3AA8FF&title_color=fff&text_color=fff&custom_title=My%20Top%20Languages" alt="Top Languages">
   </a>
 </p>
 
